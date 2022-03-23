@@ -1,0 +1,9 @@
+name: GitMinecraft
+version: 1.0
+author: PrankCalls
+main: com.desolatelands.gitminecraft.GitMinecraft
+api-version: 1.8.8
+commands:
+  git:
+    description: Main command for Git Minecraft.
+    usage: /git
